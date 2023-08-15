@@ -1,1 +1,2 @@
 # Criminal-Face-Recognition-System
+The primary objective is to reveal the identity of a criminal when a video or image undergoes detection, subsequently aligning with the preexisting criminal records. Supplementary information about the identified offender should be accessible through a database, which has been designed using Python's tkinter framework. Criminal particulars are meticulously stored within Excel CSV files, accompanied by illustrative snapshots of the application's interface.
